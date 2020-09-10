@@ -4,8 +4,8 @@ Solution : Use first array to index the elements of second array and then the an
 2) Some dp question.(Medium)
 3) A question based on trees with heavy implementation.(Medium)
 4) Find size of set of intervals with minimum size such that each interval in the set intersects all other intervals.(Hard-Advanced)   
-**1<=n<=1e5**
-Sol: I could only come up with an idea for n^2 solution where we could construct a graph with each interval being a node and edge between two intersecting intervals.
+**1<=n<=1e5**     
+Sol: I could only come up with an idea for n^2 solution where we could construct a graph with each interval being a node and edge between two intersecting intervals.   
 However there could be a solution based on segtree with dp.
 
 Only 10-15 people could solve more than 2 questions and only one managed to solve the 3rd question and no one could solve the 4th question,10 were shortlisted for the interviews
@@ -18,7 +18,7 @@ Find minimum energy required to destory all the houses.(Medium)
 Sol:Binary search the answer (note energy can be a fractional value)
 3) Given a weighted graph and a number k we could change the weights of atmost k edges to zero independently for each destination vertex where the source being vertex 1.    
 Find the length of the shortest paths form the source to all the destination vertices. (Hard)  
-Constraints: **1<=n<=1e5 and k<=50**
+Constraints: **1<=n<=1e5 and k<=50**       
 Sol:Modify dijsktra's algorithm and where dp[i][used] is distance of source form ith node when we have made values of "used" edges as zero.
 
 Only 3-4 people managed to solve all the questions,18 were shortlisted for the interviews.
