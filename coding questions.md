@@ -69,5 +69,5 @@ Only 2 people managed to solve all the three questions of coding section,20-25 w
 3) [Question](https://www.geeksforgeeks.org/count-the-number-of-ways-to-construct-the-target-string/) (Hard)(Approach-DP)
 
 # Nutanix
-1) % arrays are given 5 arrays (of integers) A, B, C, D and E. Find the maximum value of |A_i - A_j| + |B_i - B_j| + |C_i - C_j| + |D_i - D_j| + |E_i - E_j| + |i - j|.
-2) An array of strings s is given an input. 2 strings A and B in s can be concatenated (to form A + B) if index(A) < index(B) in s and the last letter of A is the same as the first letter of B. Find the longest such string formed after concatenating strings s_i_1, s_i_2, s_i_3 ... s_i_k such that i_1 < i_2 < ... < i_k and the first letter of s_i_1 is the same as the last letter of s_i_k;
+1) Given 5 arrays (of integers) A, B, C, D and E. Find the maximum value of |A<sub>i</sub> - A<sub>j</sub>| + |B<sub>i</sub> - B<sub>j</sub>| + |C<sub>i</sub> - C<sub>j</sub>| + |D<sub>i</sub> - D<sub>j</sub>| + |E<sub>i</sub> - E<sub>j</sub>| + |i - j|.
+2) An array of strings s is given an input. 2 strings A and B in s can be concatenated (to form A + B) if index(A) < index(B) in s and the last letter of A is the same as the first letter of B. Find the longest such string formed after concatenating strings s_i_1, s_i_2, s_i_3 ... s_i_k such that i<sub>1</sub> < i<sub>2</sub> < ... < i<sub>k</sub> and the first letter of s_i_1 is the same as the last letter of s_i_k;
