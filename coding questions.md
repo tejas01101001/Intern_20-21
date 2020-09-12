@@ -36,8 +36,18 @@ a) Quant (Mental ability questions like those in SOF olympiads there were 10 que
 b) Debugging ( 7 questions with a time of 20 minutes.)   
 c) Coding (3 questions in 60 minutes)   
 1) Some basic maths question (Cakewalk)
-2) Question based onBinary search the answer (Medium)
+2) [Question](https://www.google.com/amp/s/www.geeksforgeeks.org/pick-points-from-array-such-that-minimum-distance-is-maximized/amp/) based on Binary search the answer (Medium)
 3) A complicated question where ultimately we had to find size of the convex hull of the given points.(Medium-Hard)   
 
 Only 2 people managed to solve all the three questions of coding section,20-25 were shortlisted for the interviews.
+
+# Quadeye
+1) 8-10 mcqs related to programming
+2) 8-10 mcqs related to quant
+3) 2 HR questions
+4) 2 coding questions 
+    1) Given a string containing (, ), [, ], ? and '?' can be replaced by any character, find the number of ways in which the given string can be divided in two substrings such that all the brackets can be matched both the resulting substrings.  
+    2) Given a die which can show values from 1 to m, find the number of ways to obtain a sum n.    
+    
+8 were shortlisted for the interviews (just the top 8 department ranks of CSE ,coding test was not considered for shortlisting) 
 
