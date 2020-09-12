@@ -61,3 +61,9 @@ Only 2 people managed to solve all the three questions of coding section,20-25 w
 5) 2 HR Questions(15 mins) 
     1) Describe an experience where your ambition and passion lead to a project/goal getting completed successfully.
     2) You need to complete a project within a deadline but your team member is unable to continue, how do you proceed?
+    
+# App Dynamics
+12 MCQ's(were very easy on topics like DSA/OOPS/Probablity/Maths) and 3 Coding Questions
+1) To find no of duplicates in a array.(Very Easy)
+2) Given n coordintes in 2-D plane with no of people at that coordinate.Find a coordinte so that all people will gather at that coordinte and sum of manhatten distance travelled by all people are minimized.(Easy-Medium)
+3) [Question](https://www.geeksforgeeks.org/count-the-number-of-ways-to-construct-the-target-string/) (Hard)(Approach-DP)
