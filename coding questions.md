@@ -51,3 +51,13 @@ Only 2 people managed to solve all the three questions of coding section,20-25 w
     
 8 were shortlisted for the interviews (just the top 8 department ranks of CSE ,coding test was not considered for shortlisting) 
 
+# Goldman Sachs
+1) 2 coding questions(30 mins)
+    1) Basic Greedy Question(Easy)
+    2) Given a binary tree find the sum of all nodes whose left and right child are magic number.A number is a magic number if we can obtain 1 by repeatedly doing  sum of square of digits.(Medium)
+2) 8-10 MCQ's on Aptitude/Probablity/Maths (20 mins)
+3) 8-10 MCQ's on CS Knowledge(20 mins)
+4) 1 hard coding question on 0-1 BFS on a 2-D grid(45 mins)
+5) 2 HR Questions(15 mins) 
+    1) Describe an experience where your ambition and passion lead to a project/goal getting completed successfully.
+    2) You need to complete a project within a deadline but your team member is unable to continue, how do you proceed?
